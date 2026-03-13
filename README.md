@@ -1,6 +1,6 @@
 # Apollo
 
-[!apollo](/Demo.png)
+[Demo](/Demo.png)
 ```bash
 git clone https://github.com/yourname/dotfiles
 cd dotfiles
